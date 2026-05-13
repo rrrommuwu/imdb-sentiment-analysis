@@ -1,0 +1,8 @@
+data/imdb_cleaned.csv
+data/imdb_preprocessed.csv
+data/IMDB_Dataset.csv
+outputs/models/X_train_tfidf.pkl
+outputs/models/X_test_tfidf.pkl
+outputs/models/X_test_tfidf.pkl
+outputs/models/y_train.pkl
+outputs/models/y_test.pkl
