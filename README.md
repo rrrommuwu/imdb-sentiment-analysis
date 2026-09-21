@@ -1,17 +1,6 @@
 # 🎬 IMDB Sentiment Analysis — NLP Project
 
-> **Internship Project | May 2026**  
 > Predicting movie review sentiment (Positive/Negative) using NLP and Machine Learning on the IMDB 50K dataset.
-
----
-
-## 🚀 Live Demo
-
-**[Click here to try the app →](https://your-app-url.streamlit.app)**  
-*(Replace this link with your actual Streamlit Cloud URL after deployment)*
-
-**[Watch 3-min Demo Video →](https://loom.com/share/your-video-id)**  
-*(Replace with your Loom video link)*
 
 ---
 
@@ -39,7 +28,7 @@
 ## 🏗️ Project Structure
 
 ```
-nlp-sentiment-analysis/
+imdb-sentiment-analysis/
 │
 ├── data/
 │   └── raw/
@@ -98,7 +87,7 @@ The `clean_text()` function and TF-IDF + LinearSVC pipeline requires minimal cha
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/nlp-sentiment-analysis.git
+git clone https://github.com/YOUR_USERNAME/imdb-sentiment-analysis.git
 cd nlp-sentiment-analysis
 
 # 2. Install dependencies
@@ -132,16 +121,3 @@ seaborn
 wordcloud
 joblib
 scipy
-```
-
----
-
-## 👤 About
-
-**Karthikeyan**  
-Healthcare AR → Data Science  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/YOUR_USERNAME)
-
----
-
-*Built as part of a Data Science internship project, May 2026.*
